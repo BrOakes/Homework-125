@@ -1,0 +1,27 @@
+1. yes
+
+2-3. print outputs data to the shell/command prompt.
+
+4. 10/1.61/(43.5/60) = 8.567144998929106
+
+5. round(10/1.61/(43.5/60)) = 9.0
+
+6. x gets 5, 1 is added to the value of x
+
+7. 
+
+Please use the Python type( ) function to get the type of your answer. For example type(width) will return the type of width.
+
+If you enter width/2 into the Python interpreter you will get an answer of 8. The answer is of type int. 
+
+If you enter width/2.0 into the Python interpreter you will get an answer of 8.5. The answer is of type float. 
+
+ 
+
+If you enter height/3 into the Python interpreter you will get an answer of 4.0 . The answer is of type float.
+
+If you enter 1+2*5 into the Python interpreter you will get an answer of 11. The answer is of type int.
+
+If you enter delimiter*5 into the Python interpreter you will get an answer of '.....' . The answer is of type string.
+
+8. python looks at it as bytecode.
